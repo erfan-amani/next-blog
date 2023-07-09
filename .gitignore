@@ -37,3 +37,6 @@ next-env.d.ts
 # init db files
 /init_images
 initBlogs.js
+
+# env files
+.env
